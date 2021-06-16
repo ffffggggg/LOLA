@@ -1,7 +1,7 @@
 {
     "type": "esp32-fota-https",
-    "version": 1,
+    "version": 2,
     "host": "raw.githubusercontent.com",
     "port": 443,
-    "bin": "/ffffggggg/LOLAv1.2/main/LOLAv1.0.ino.esp32.bin"
+    "bin": "/ffffggggg/LOLAv1.2/main/LOLAv1.2.ino.esp32.bin"
 }
